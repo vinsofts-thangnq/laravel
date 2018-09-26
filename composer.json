@@ -1,0 +1,12 @@
+{
+    "name": "laraveldaily/timezones",
+    "description": "demo package",
+    "authors": [
+        {
+            "name": "vinsofts-thangnq",
+            "email": "thangnq@vinsofts.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
